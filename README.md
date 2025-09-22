@@ -307,9 +307,7 @@ error_reporting(E_ALL);
 3. **💾 Commit** changes with clear messages
 4. **🚀 Push** branch and open a Pull Request
 
-## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
